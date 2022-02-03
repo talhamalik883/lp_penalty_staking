@@ -1,5 +1,5 @@
 # lp_penalty_staking
-This Repository let user stake and lock their lp for the specified time. User will face penalty in reward amount incase try to withdraw before locktime
+This Codebase let user stake and lock their lp for the specified time. User will face penalty in reward amount incase try to withdraw before locktime
 # LP Staking with Locking Mechanism
 
 Clone the repo
@@ -8,11 +8,9 @@ Clone the repo
 git clone https://github.com/talhamalik883/lp_penalty_staking.git
 ```
 
-
-# Code is developed and tested using hardhat frameword
-
 # Configure the deployment
 
+Code is developed and tested using hardhat frameword
 # Install Dependencies
 
 ```
